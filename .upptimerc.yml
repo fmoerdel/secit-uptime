@@ -16,7 +16,7 @@ sites:
     method: HEAD
     url: https://www.google.com
   - name: Secret Site
-    url: $Pro_Sec_IT
+    url: $PRO_SEC_IT
   - name: Test
     url: https://news.itsfoss.com/
 
