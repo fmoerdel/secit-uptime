@@ -22,19 +22,19 @@
     "url": "https://linuxhandbook.com/",
     "icon": "https://favicons.githubusercontent.com/linuxhandbook.com",
     "slug": "info",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1080,
-    "timeDay": 1080,
-    "timeWeek": 1080,
-    "timeMonth": 1080,
-    "timeYear": 1080,
+    "status": "up",
+    "uptime": "95.35%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "95.35%",
+    "uptimeMonth": "95.35%",
+    "uptimeYear": "95.35%",
+    "time": 1195,
+    "timeDay": 1195,
+    "timeWeek": 1195,
+    "timeMonth": 1195,
+    "timeYear": 1195,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 58
     }
   },
   {
