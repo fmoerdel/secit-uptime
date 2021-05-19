@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/linuxhandbook.com",
     "slug": "info",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 1294,
     "timeDay": 776,
-    "timeWeek": 968,
+    "timeWeek": 970,
     "timeMonth": 1056,
     "timeYear": 1294,
     "dailyMinutesDown": {
@@ -105,9 +105,9 @@
     "url": "$PRO_SEC_IT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +116,9 @@
     "timeWeek": 641,
     "timeMonth": 544,
     "timeYear": 496,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-19": 0
+    }
   },
   {
     "name": "Test",
@@ -130,7 +132,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 498,
-    "timeDay": 1296,
+    "timeDay": 992,
     "timeWeek": 953,
     "timeMonth": 866,
     "timeYear": 498,
