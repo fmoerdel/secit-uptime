@@ -70,9 +70,9 @@
     "url": "https://itsfoss.com/",
     "icon": "https://favicons.githubusercontent.com/itsfoss.com",
     "slug": "broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,7 +81,9 @@
     "timeWeek": 164,
     "timeMonth": 161,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-25": 0
+    }
   },
   {
     "name": "Test for HEAD",
